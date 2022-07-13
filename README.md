@@ -1,2 +1,2 @@
 # DVD-Rental-Store---Case-Studies
-![sql query ](carbon.png)
+![sql query ](DVD-Rental-Store_Case-Study/Code snippets/carbon.png)
